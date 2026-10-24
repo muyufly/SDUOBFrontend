@@ -1,0 +1,28 @@
+{
+  "at": "2026-10-23T14:35:46.797Z",
+  "mocked": false,
+  "mutations": false,
+  "checks": [
+    {
+      "width": 1440,
+      "navigation": "passed",
+      "tabs": "passed",
+      "dividerClearance": "passed",
+      "horizontalOverflow": false
+    },
+    {
+      "width": 768,
+      "navigation": "passed",
+      "tabs": "passed",
+      "dividerClearance": "passed",
+      "horizontalOverflow": false
+    },
+    {
+      "width": 390,
+      "navigation": "passed",
+      "tabs": "passed",
+      "dividerClearance": "passed",
+      "horizontalOverflow": false
+    }
+  ]
+}

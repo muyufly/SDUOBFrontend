@@ -1,0 +1,187 @@
+{
+  "at": "2026-10-23T15:11:11.715Z",
+  "mocked": true,
+  "mutations": [],
+  "checks": [
+    {
+      "width": 1440,
+      "signedIn": true,
+      "navigation": "passed",
+      "iconCentered": true,
+      "touchTarget": "44px",
+      "quickWrite": "editor",
+      "publicProfileFirst": true,
+      "horizontalOverflow": false
+    },
+    {
+      "width": 1101,
+      "signedIn": true,
+      "navigation": "passed",
+      "iconCentered": true,
+      "touchTarget": "44px",
+      "quickWrite": "editor",
+      "publicProfileFirst": true,
+      "horizontalOverflow": false
+    },
+    {
+      "width": 1100,
+      "signedIn": true,
+      "navigation": "passed",
+      "iconCentered": true,
+      "touchTarget": "44px",
+      "quickWrite": "editor",
+      "publicProfileFirst": true,
+      "horizontalOverflow": false
+    },
+    {
+      "width": 768,
+      "signedIn": true,
+      "navigation": "passed",
+      "iconCentered": true,
+      "touchTarget": "44px",
+      "quickWrite": "editor",
+      "publicProfileFirst": true,
+      "horizontalOverflow": false
+    },
+    {
+      "width": 640,
+      "signedIn": true,
+      "navigation": "passed",
+      "iconCentered": true,
+      "touchTarget": "44px",
+      "quickWrite": "editor",
+      "publicProfileFirst": true,
+      "horizontalOverflow": false
+    },
+    {
+      "width": 601,
+      "signedIn": true,
+      "navigation": "passed",
+      "iconCentered": true,
+      "touchTarget": "44px",
+      "quickWrite": "editor",
+      "publicProfileFirst": true,
+      "horizontalOverflow": false
+    },
+    {
+      "width": 600,
+      "signedIn": true,
+      "navigation": "passed",
+      "iconCentered": true,
+      "touchTarget": "44px",
+      "quickWrite": "editor",
+      "publicProfileFirst": true,
+      "horizontalOverflow": false
+    },
+    {
+      "width": 390,
+      "signedIn": true,
+      "navigation": "passed",
+      "iconCentered": true,
+      "touchTarget": "44px",
+      "quickWrite": "editor",
+      "publicProfileFirst": true,
+      "horizontalOverflow": false
+    },
+    {
+      "width": 320,
+      "signedIn": true,
+      "navigation": "passed",
+      "iconCentered": true,
+      "touchTarget": "44px",
+      "quickWrite": "editor",
+      "publicProfileFirst": true,
+      "horizontalOverflow": false
+    },
+    {
+      "width": 1440,
+      "signedIn": false,
+      "navigation": "passed",
+      "iconCentered": true,
+      "touchTarget": "44px",
+      "quickWrite": "login-with-return",
+      "publicProfileFirst": null,
+      "horizontalOverflow": false
+    },
+    {
+      "width": 1101,
+      "signedIn": false,
+      "navigation": "passed",
+      "iconCentered": true,
+      "touchTarget": "44px",
+      "quickWrite": "login-with-return",
+      "publicProfileFirst": null,
+      "horizontalOverflow": false
+    },
+    {
+      "width": 1100,
+      "signedIn": false,
+      "navigation": "passed",
+      "iconCentered": true,
+      "touchTarget": "44px",
+      "quickWrite": "login-with-return",
+      "publicProfileFirst": null,
+      "horizontalOverflow": false
+    },
+    {
+      "width": 768,
+      "signedIn": false,
+      "navigation": "passed",
+      "iconCentered": true,
+      "touchTarget": "44px",
+      "quickWrite": "login-with-return",
+      "publicProfileFirst": null,
+      "horizontalOverflow": false
+    },
+    {
+      "width": 640,
+      "signedIn": false,
+      "navigation": "passed",
+      "iconCentered": true,
+      "touchTarget": "44px",
+      "quickWrite": "login-with-return",
+      "publicProfileFirst": null,
+      "horizontalOverflow": false
+    },
+    {
+      "width": 601,
+      "signedIn": false,
+      "navigation": "passed",
+      "iconCentered": true,
+      "touchTarget": "44px",
+      "quickWrite": "login-with-return",
+      "publicProfileFirst": null,
+      "horizontalOverflow": false
+    },
+    {
+      "width": 600,
+      "signedIn": false,
+      "navigation": "passed",
+      "iconCentered": true,
+      "touchTarget": "44px",
+      "quickWrite": "login-with-return",
+      "publicProfileFirst": null,
+      "horizontalOverflow": false
+    },
+    {
+      "width": 390,
+      "signedIn": false,
+      "navigation": "passed",
+      "iconCentered": true,
+      "touchTarget": "44px",
+      "quickWrite": "login-with-return",
+      "publicProfileFirst": null,
+      "horizontalOverflow": false
+    },
+    {
+      "width": 320,
+      "signedIn": false,
+      "navigation": "passed",
+      "iconCentered": true,
+      "touchTarget": "44px",
+      "quickWrite": "login-with-return",
+      "publicProfileFirst": null,
+      "horizontalOverflow": false
+    }
+  ]
+}

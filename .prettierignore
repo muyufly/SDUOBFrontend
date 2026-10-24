@@ -1,0 +1,10 @@
+node_modules
+dist
+pnpm-lock.yaml
+api/openapi.json
+src/api/schema.d.ts
+.local
+.taste-skill
+docs/screenshots
+playwright-report
+test-results

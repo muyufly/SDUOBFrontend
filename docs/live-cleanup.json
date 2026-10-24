@@ -1,0 +1,163 @@
+{
+  "at": "2026-10-23T12:31:40.978Z",
+  "base": "https://dev.muyufly.com/api/v1",
+  "passed": true,
+  "checks": [
+    {
+      "method": "POST",
+      "path": "/auth/login",
+      "status": 200,
+      "requestId": "085f5677-9c7d-40ed-ba22-c3d8f58bcc17"
+    },
+    {
+      "method": "PATCH",
+      "path": "/me",
+      "status": 200,
+      "requestId": "cf23be8f-ba11-4c35-8ee4-0cca507aa224"
+    },
+    {
+      "method": "GET",
+      "path": "/me/notes?pageSize=50",
+      "status": 200,
+      "requestId": "0154abf0-078f-4d18-9bbf-bc07150c28f5"
+    },
+    {
+      "method": "DELETE",
+      "path": "/notes/cmvky7723000y01mj0cfoe7uo",
+      "status": 200,
+      "requestId": "d1e2b3c8-9332-4d14-981c-7a813273f7af"
+    },
+    {
+      "method": "DELETE",
+      "path": "/notes/cmvky3y8c000m01mjubqgy8xo",
+      "status": 200,
+      "requestId": "fb4d77cb-480b-4c17-98f2-20e925674101"
+    },
+    {
+      "method": "DELETE",
+      "path": "/notes/cmvky2i2w000501mjif0pqvnq",
+      "status": 200,
+      "requestId": "12f87386-57a6-47dc-93b6-2032defaaeed"
+    },
+    {
+      "method": "GET",
+      "path": "/me/products?pageSize=50",
+      "status": 200,
+      "requestId": "3cd198ef-a66c-4fcc-992e-27ea3891025a"
+    },
+    {
+      "method": "PUT",
+      "path": "/products/cmvky2if4000d01mjfpqzsnxu",
+      "status": 200,
+      "requestId": "8cb86e08-2751-4f87-9b95-5985c81e9485"
+    },
+    {
+      "method": "GET",
+      "path": "/me/collections",
+      "status": 200,
+      "requestId": "f337a4d6-ee4e-4951-8c0e-93b822cb952f"
+    },
+    {
+      "method": "GET",
+      "path": "/me/media?pageSize=50",
+      "status": 200,
+      "requestId": "b8f423d6-a156-4ebe-96aa-d71cf0bab109"
+    },
+    {
+      "method": "DELETE",
+      "path": "/media/b3906296-5583-4b48-b6a4-6c51b17916f1",
+      "status": 200,
+      "requestId": "85d8fb4d-ee4b-4c60-aac7-8a81061bb641"
+    },
+    {
+      "method": "DELETE",
+      "path": "/media/80de834d-e809-48b1-9cb3-6db3deb709e9",
+      "status": 200,
+      "requestId": "bc7e51f5-8ff3-43de-9d37-171649692d70"
+    },
+    {
+      "method": "DELETE",
+      "path": "/media/023d3948-b8b5-41e8-bde4-1abda772c769",
+      "status": 200,
+      "requestId": "4cbbcf5c-0a84-4e8b-8277-3651e3f7d104"
+    },
+    {
+      "method": "POST",
+      "path": "/users/qa_front_mvky2hn8_r/follow",
+      "status": 200,
+      "requestId": "0ee29b60-2598-4f3a-ab0e-b430f65f6fa0"
+    },
+    {
+      "method": "PUT",
+      "path": "/notifications/read-all",
+      "status": 200,
+      "requestId": "bb1c06ba-f096-4c80-897a-70335ea35456"
+    },
+    {
+      "method": "POST",
+      "path": "/auth/logout",
+      "status": 200,
+      "requestId": "18359820-ce03-47d9-bc86-2b4b42dc04d3"
+    },
+    {
+      "method": "POST",
+      "path": "/auth/login",
+      "status": 200,
+      "requestId": "9286823e-e936-41dd-8972-60831db25257"
+    },
+    {
+      "method": "PATCH",
+      "path": "/me",
+      "status": 200,
+      "requestId": "dce9afd8-2d95-408e-bd84-563ad61240d6"
+    },
+    {
+      "method": "GET",
+      "path": "/me/notes?pageSize=50",
+      "status": 200,
+      "requestId": "77216e9f-3401-4fcd-8c64-ca986e52965d"
+    },
+    {
+      "method": "GET",
+      "path": "/me/products?pageSize=50",
+      "status": 200,
+      "requestId": "6c128a9b-350c-4db1-90c1-82ee8367f105"
+    },
+    {
+      "method": "GET",
+      "path": "/me/collections",
+      "status": 200,
+      "requestId": "a156c1a7-3624-4bc1-b84c-9d80d3541dc8"
+    },
+    {
+      "method": "DELETE",
+      "path": "/me/collections/cmvky2i6x000801mjvocb5mb3",
+      "status": 200,
+      "requestId": "d6428be0-ebba-4343-92ea-d0e4ac0859aa"
+    },
+    {
+      "method": "GET",
+      "path": "/me/media?pageSize=50",
+      "status": 200,
+      "requestId": "5776b108-e159-4d7e-8a22-cc1ee2c6f4f4"
+    },
+    {
+      "method": "POST",
+      "path": "/users/qa_front_mvky2hn8_w/follow",
+      "status": 200,
+      "requestId": "22cc20ca-dd08-4f32-8d4d-b48c6f795e03"
+    },
+    {
+      "method": "PUT",
+      "path": "/notifications/read-all",
+      "status": 200,
+      "requestId": "4bdf7483-e675-4601-85cb-5555003af218"
+    },
+    {
+      "method": "POST",
+      "path": "/auth/logout",
+      "status": 200,
+      "requestId": "3fc27a00-9d75-46de-a914-413da54513b0"
+    }
+  ]
+}

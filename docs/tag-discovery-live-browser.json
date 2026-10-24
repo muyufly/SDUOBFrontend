@@ -1,0 +1,59 @@
+{
+  "at": "2026-10-23T14:03:21.435Z",
+  "api": "https://dev.muyufly.com/api/v1",
+  "frontend": "http://localhost:5173",
+  "mocked": false,
+  "mutations": false,
+  "topics": 2,
+  "topTenShown": 2,
+  "widths": [
+    1440,
+    768,
+    390
+  ],
+  "sorts": [
+    "oldest",
+    "likes",
+    "favorites",
+    "latest"
+  ],
+  "filteredTag": "passed",
+  "requests": [
+    {
+      "path": "/api/v1/tags?page=1",
+      "status": 200
+    },
+    {
+      "path": "/api/v1/tags/stats?sort=popular&page=1&pageSize=10",
+      "status": 200
+    },
+    {
+      "path": "/api/v1/notes?feed=latest&sort=oldest&page=1&pageSize=10",
+      "status": 200
+    },
+    {
+      "path": "/api/v1/notes?feed=latest&sort=likes&page=1&pageSize=10",
+      "status": 200
+    },
+    {
+      "path": "/api/v1/notes?feed=latest&sort=favorites&page=1&pageSize=10",
+      "status": 200
+    },
+    {
+      "path": "/api/v1/notes?feed=latest&sort=latest&page=1&pageSize=10",
+      "status": 200
+    },
+    {
+      "path": "/api/v1/tags?pageSize=20&sort=popular",
+      "status": 200
+    },
+    {
+      "path": "/api/v1/tags?q=%E5%89%8D%E7%AB%AF&pageSize=20&sort=popular",
+      "status": 200
+    },
+    {
+      "path": "/api/v1/notes?feed=latest&tag=%E5%89%8D%E7%AB%AF&sort=latest&page=1&pageSize=10",
+      "status": 200
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "at": "2026-10-24T03:14:27.467Z",
+  "mocked": false,
+  "mutations": false,
+  "checks": [
+    {
+      "width": 1440,
+      "name": "feed",
+      "cards": 3,
+      "textCovers": 1,
+      "iconsAligned": true,
+      "coverSize": {
+        "width": 156,
+        "height": 116
+      },
+      "horizontalOverflow": false
+    },
+    {
+      "width": 1440,
+      "name": "topic",
+      "cards": 3,
+      "textCovers": 1,
+      "iconsAligned": true,
+      "coverSize": {
+        "width": 320,
+        "height": 208
+      },
+      "horizontalOverflow": false
+    },
+    {
+      "width": 768,
+      "name": "feed",
+      "cards": 3,
+      "textCovers": 1,
+      "iconsAligned": true,
+      "coverSize": {
+        "width": 156,
+        "height": 116
+      },
+      "horizontalOverflow": false
+    },
+    {
+      "width": 768,
+      "name": "topic",
+      "cards": 3,
+      "textCovers": 1,
+      "iconsAligned": true,
+      "coverSize": {
+        "width": 260,
+        "height": 180
+      },
+      "horizontalOverflow": false
+    },
+    {
+      "width": 390,
+      "name": "feed",
+      "cards": 3,
+      "textCovers": 1,
+      "iconsAligned": true,
+      "coverSize": {
+        "width": 85,
+        "height": 100
+      },
+      "horizontalOverflow": false
+    },
+    {
+      "width": 390,
+      "name": "topic",
+      "cards": 3,
+      "textCovers": 1,
+      "iconsAligned": true,
+      "coverSize": {
+        "width": 350,
+        "height": 196.875
+      },
+      "horizontalOverflow": false
+    },
+    {
+      "width": 320,
+      "name": "feed",
+      "cards": 3,
+      "textCovers": 1,
+      "iconsAligned": true,
+      "coverSize": {
+        "width": 85,
+        "height": 100
+      },
+      "horizontalOverflow": false
+    },
+    {
+      "width": 320,
+      "name": "topic",
+      "cards": 3,
+      "textCovers": 1,
+      "iconsAligned": true,
+      "coverSize": {
+        "width": 280,
+        "height": 157.5
+      },
+      "horizontalOverflow": false
+    }
+  ]
+}

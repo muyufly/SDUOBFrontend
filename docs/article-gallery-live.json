@@ -1,0 +1,41 @@
+{
+  "at": "2026-10-23T23:41:33.936Z",
+  "mocked": false,
+  "mutations": false,
+  "path": "/articles/cmvllznpk000001t0hknh4tnv",
+  "checks": [
+    {
+      "width": 1440,
+      "images": 3,
+      "controls": "passed",
+      "thumbnails": "passed",
+      "keyboard": "passed",
+      "stageHeightStable": true,
+      "touchSwipe": "not applicable",
+      "verticalScroll": "not applicable",
+      "horizontalOverflow": false
+    },
+    {
+      "width": 768,
+      "images": 3,
+      "controls": "passed",
+      "thumbnails": "passed",
+      "keyboard": "passed",
+      "stageHeightStable": true,
+      "touchSwipe": "not applicable",
+      "verticalScroll": "not applicable",
+      "horizontalOverflow": false
+    },
+    {
+      "width": 390,
+      "images": 3,
+      "controls": "passed",
+      "thumbnails": "passed",
+      "keyboard": "passed",
+      "stageHeightStable": true,
+      "touchSwipe": "passed",
+      "verticalScroll": "passed",
+      "horizontalOverflow": false
+    }
+  ]
+}

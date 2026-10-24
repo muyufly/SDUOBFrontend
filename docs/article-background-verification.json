@@ -1,0 +1,80 @@
+{
+  "at": "2026-10-23T23:47:48.788Z",
+  "mocked": false,
+  "mutations": false,
+  "path": "/articles/cmvllznpk000001t0hknh4tnv",
+  "checks": [
+    {
+      "width": 1440,
+      "gray": {
+        "imageBackground": "rgba(0, 0, 0, 0)",
+        "textBackground": "rgba(0, 0, 0, 0)",
+        "pageBackground": "rgb(233, 233, 230)",
+        "textPadding": "0px",
+        "textMargin": "0px",
+        "edgesAligned": true,
+        "overflow": false
+      },
+      "warm": {
+        "imageBackground": "rgba(0, 0, 0, 0)",
+        "textBackground": "rgba(0, 0, 0, 0)",
+        "pageBackground": "rgb(243, 240, 232)",
+        "textPadding": "0px",
+        "textMargin": "0px",
+        "edgesAligned": true,
+        "overflow": false
+      },
+      "savedPreference": "passed",
+      "carousel": "passed",
+      "backgroundRestoredOnExit": true
+    },
+    {
+      "width": 768,
+      "gray": {
+        "imageBackground": "rgba(0, 0, 0, 0)",
+        "textBackground": "rgba(0, 0, 0, 0)",
+        "pageBackground": "rgb(233, 233, 230)",
+        "textPadding": "0px",
+        "textMargin": "0px",
+        "edgesAligned": true,
+        "overflow": false
+      },
+      "warm": {
+        "imageBackground": "rgba(0, 0, 0, 0)",
+        "textBackground": "rgba(0, 0, 0, 0)",
+        "pageBackground": "rgb(243, 240, 232)",
+        "textPadding": "0px",
+        "textMargin": "0px",
+        "edgesAligned": true,
+        "overflow": false
+      },
+      "savedPreference": "passed",
+      "carousel": "passed",
+      "backgroundRestoredOnExit": true
+    },
+    {
+      "width": 390,
+      "gray": {
+        "imageBackground": "rgba(0, 0, 0, 0)",
+        "textBackground": "rgba(0, 0, 0, 0)",
+        "pageBackground": "rgb(233, 233, 230)",
+        "textPadding": "0px",
+        "textMargin": "0px",
+        "edgesAligned": true,
+        "overflow": false
+      },
+      "warm": {
+        "imageBackground": "rgba(0, 0, 0, 0)",
+        "textBackground": "rgba(0, 0, 0, 0)",
+        "pageBackground": "rgb(243, 240, 232)",
+        "textPadding": "0px",
+        "textMargin": "0px",
+        "edgesAligned": true,
+        "overflow": false
+      },
+      "savedPreference": "passed",
+      "carousel": "passed",
+      "backgroundRestoredOnExit": true
+    }
+  ]
+}

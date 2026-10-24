@@ -1,0 +1,69 @@
+# 接口覆盖
+
+本地 OpenAPI 快照共 63 个操作。原有 61 个操作在此前校园服务真实联调及清理日志中有成功响应证据；本轮新增的两个 Tag 操作通过本地真实 MySQL API 集成测试，并已在 Jenkins #8 发布后通过校园 HTTPS 真实请求验证。此表表示接口被实际调用，不代表每个参数组合都穷举测试。
+
+| 方法   | 路径                            | 真实联调 |
+| ------ | ------------------------------- | -------- |
+| GET    | `/health`                       | 通过     |
+| POST   | `/auth/register`                | 通过     |
+| POST   | `/auth/login`                   | 通过     |
+| POST   | `/auth/logout`                  | 通过     |
+| PUT    | `/auth/password`                | 通过     |
+| GET    | `/me`                           | 通过     |
+| PATCH  | `/me`                           | 通过     |
+| GET    | `/users`                        | 通过     |
+| GET    | `/users/{username}`             | 通过     |
+| GET    | `/users/{username}/archives`    | 通过     |
+| GET    | `/users/{username}/followers`   | 通过     |
+| GET    | `/users/{username}/following`   | 通过     |
+| POST   | `/users/{username}/follow`      | 通过     |
+| GET    | `/notes`                        | 通过     |
+| POST   | `/tags/batch`                   | 本地 MySQL 与校园 HTTPS 验证通过 |
+| GET    | `/tags/stats`                   | 本地 MySQL 与校园 HTTPS 验证通过 |
+| POST   | `/notes`                        | 通过     |
+| GET    | `/tags`                         | 通过     |
+| GET    | `/me/notes`                     | 通过     |
+| GET    | `/me/favorites`                 | 通过     |
+| GET    | `/me/likes`                     | 通过     |
+| GET    | `/me/collections`               | 通过     |
+| POST   | `/me/collections`               | 通过     |
+| PATCH  | `/me/collections/{id}`          | 通过     |
+| DELETE | `/me/collections/{id}`          | 通过     |
+| PUT    | `/me/favorites/{id}/collection` | 通过     |
+| GET    | `/notes/{id}`                   | 通过     |
+| PUT    | `/notes/{id}`                   | 通过     |
+| DELETE | `/notes/{id}`                   | 通过     |
+| POST   | `/notes/{id}/pin`               | 通过     |
+| POST   | `/notes/{id}/like`              | 通过     |
+| POST   | `/notes/{id}/favorite`          | 通过     |
+| GET    | `/notes/{id}/comments`          | 通过     |
+| POST   | `/notes/{id}/comments`          | 通过     |
+| GET    | `/comments/{id}/replies`        | 通过     |
+| GET    | `/comments/{id}/context`        | 通过     |
+| DELETE | `/comments/{id}`                | 通过     |
+| POST   | `/media`                        | 通过     |
+| GET    | `/me/media`                     | 通过     |
+| DELETE | `/media/{id}`                   | 通过     |
+| GET    | `/products`                     | 通过     |
+| POST   | `/products`                     | 通过     |
+| GET    | `/me/products`                  | 通过     |
+| GET    | `/products/{id}`                | 通过     |
+| PUT    | `/products/{id}`                | 通过     |
+| GET    | `/wallet`                       | 通过     |
+| GET    | `/wallet/ledger`                | 通过     |
+| POST   | `/wallet/recharges`             | 通过     |
+| POST   | `/orders`                       | 通过     |
+| GET    | `/orders`                       | 通过     |
+| GET    | `/orders/{id}`                  | 通过     |
+| POST   | `/orders/{id}/pay`              | 通过     |
+| POST   | `/orders/{id}/cancel`           | 通过     |
+| GET    | `/notifications`                | 通过     |
+| GET    | `/notifications/unread-count`   | 通过     |
+| PUT    | `/notifications/read-all`       | 通过     |
+| PUT    | `/notifications/{id}/read`      | 通过     |
+| GET    | `/admin/users`                  | 通过     |
+| GET    | `/admin/notes`                  | 通过     |
+| GET    | `/admin/products`               | 通过     |
+| PATCH  | `/admin/users/{id}`             | 通过     |
+| PATCH  | `/admin/notes/{id}`             | 通过     |
+| PATCH  | `/admin/products/{id}`          | 通过     |

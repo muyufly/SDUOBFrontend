@@ -1,0 +1,29 @@
+{
+  "at": "2026-10-23T13:16:29.798Z",
+  "passed": true,
+  "mode": "real backend, read-only guest navigation",
+  "checks": [
+    {
+      "page": "/",
+      "publicArticles": 0,
+      "brand": "学生在线"
+    },
+    {
+      "page": "/latest",
+      "directReload": "passed"
+    },
+    {
+      "page": "/following",
+      "guestLoginPrompt": "passed"
+    },
+    {
+      "page": "/studio",
+      "guestRedirect": "/login?next=%2Fstudio"
+    },
+    {
+      "page": "/search",
+      "submittedQuery": "校园"
+    }
+  ],
+  "pageErrors": []
+}

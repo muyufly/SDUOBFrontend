@@ -1,0 +1,70 @@
+{
+  "at": "2026-10-23T14:59:28.211Z",
+  "mocked": false,
+  "mutations": false,
+  "checks": [
+    {
+      "width": 1440,
+      "tag": "前端",
+      "total": 2,
+      "title": 28,
+      "feedTitle": 20,
+      "cover": {
+        "width": 320,
+        "height": 208
+      },
+      "feedCover": {
+        "width": 156,
+        "height": 116
+      },
+      "dedicatedRoute": "passed",
+      "topicNavigationSelected": true,
+      "sorting": "passed",
+      "reload": "passed",
+      "articleBack": "passed",
+      "horizontalOverflow": false
+    },
+    {
+      "width": 768,
+      "tag": "前端",
+      "total": 2,
+      "title": 26,
+      "feedTitle": 20,
+      "cover": {
+        "width": 260,
+        "height": 180
+      },
+      "feedCover": {
+        "width": 156,
+        "height": 116
+      },
+      "dedicatedRoute": "passed",
+      "topicNavigationSelected": true,
+      "sorting": "passed",
+      "reload": "passed",
+      "articleBack": "passed",
+      "horizontalOverflow": false
+    },
+    {
+      "width": 390,
+      "tag": "前端",
+      "total": 2,
+      "title": 24,
+      "feedTitle": 19,
+      "cover": {
+        "width": 350,
+        "height": 196.875
+      },
+      "feedCover": {
+        "width": 85,
+        "height": 100
+      },
+      "dedicatedRoute": "passed",
+      "topicNavigationSelected": true,
+      "sorting": "passed",
+      "reload": "passed",
+      "articleBack": "passed",
+      "horizontalOverflow": false
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+*.tsbuildinfo
+.taste-skill/
+.playwright-cli/
+output/
+test-results/
+playwright-report/
+.local/

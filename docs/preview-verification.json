@@ -1,0 +1,27 @@
+{
+  "at": "2026-10-23T12:54:56.273Z",
+  "passed": true,
+  "server": "vite preview",
+  "checks": [
+    {
+      "path": "/",
+      "status": 200,
+      "reload": "passed",
+      "finalUrl": "http://localhost:5173/"
+    },
+    {
+      "path": "/topics",
+      "status": 200,
+      "reload": "passed",
+      "finalUrl": "http://localhost:5173/topics"
+    },
+    {
+      "path": "/studio/write",
+      "status": 200,
+      "reload": "passed",
+      "finalUrl": "http://localhost:5173/login?next=%2Fstudio%2Fwrite"
+    }
+  ],
+  "pageErrors": [],
+  "strictPort": "second preview exits with Port 5173 is already in use"
+}

@@ -1,0 +1,151 @@
+{
+  "at": "2026-10-23T15:13:26.032Z",
+  "mocked": true,
+  "mutations": [],
+  "checks": [
+    {
+      "width": 1440,
+      "signedIn": true,
+      "navigation": "passed",
+      "headerPlusRemoved": true,
+      "publicProfileFirst": true,
+      "horizontalOverflow": false
+    },
+    {
+      "width": 1101,
+      "signedIn": true,
+      "navigation": "passed",
+      "headerPlusRemoved": true,
+      "publicProfileFirst": true,
+      "horizontalOverflow": false
+    },
+    {
+      "width": 1100,
+      "signedIn": true,
+      "navigation": "passed",
+      "headerPlusRemoved": true,
+      "publicProfileFirst": true,
+      "horizontalOverflow": false
+    },
+    {
+      "width": 768,
+      "signedIn": true,
+      "navigation": "passed",
+      "headerPlusRemoved": true,
+      "publicProfileFirst": true,
+      "horizontalOverflow": false
+    },
+    {
+      "width": 640,
+      "signedIn": true,
+      "navigation": "passed",
+      "headerPlusRemoved": true,
+      "publicProfileFirst": true,
+      "horizontalOverflow": false
+    },
+    {
+      "width": 601,
+      "signedIn": true,
+      "navigation": "passed",
+      "headerPlusRemoved": true,
+      "publicProfileFirst": true,
+      "horizontalOverflow": false
+    },
+    {
+      "width": 600,
+      "signedIn": true,
+      "navigation": "passed",
+      "headerPlusRemoved": true,
+      "publicProfileFirst": true,
+      "horizontalOverflow": false
+    },
+    {
+      "width": 390,
+      "signedIn": true,
+      "navigation": "passed",
+      "headerPlusRemoved": true,
+      "publicProfileFirst": true,
+      "horizontalOverflow": false
+    },
+    {
+      "width": 320,
+      "signedIn": true,
+      "navigation": "passed",
+      "headerPlusRemoved": true,
+      "publicProfileFirst": true,
+      "horizontalOverflow": false
+    },
+    {
+      "width": 1440,
+      "signedIn": false,
+      "navigation": "passed",
+      "headerPlusRemoved": true,
+      "publicProfileFirst": null,
+      "horizontalOverflow": false
+    },
+    {
+      "width": 1101,
+      "signedIn": false,
+      "navigation": "passed",
+      "headerPlusRemoved": true,
+      "publicProfileFirst": null,
+      "horizontalOverflow": false
+    },
+    {
+      "width": 1100,
+      "signedIn": false,
+      "navigation": "passed",
+      "headerPlusRemoved": true,
+      "publicProfileFirst": null,
+      "horizontalOverflow": false
+    },
+    {
+      "width": 768,
+      "signedIn": false,
+      "navigation": "passed",
+      "headerPlusRemoved": true,
+      "publicProfileFirst": null,
+      "horizontalOverflow": false
+    },
+    {
+      "width": 640,
+      "signedIn": false,
+      "navigation": "passed",
+      "headerPlusRemoved": true,
+      "publicProfileFirst": null,
+      "horizontalOverflow": false
+    },
+    {
+      "width": 601,
+      "signedIn": false,
+      "navigation": "passed",
+      "headerPlusRemoved": true,
+      "publicProfileFirst": null,
+      "horizontalOverflow": false
+    },
+    {
+      "width": 600,
+      "signedIn": false,
+      "navigation": "passed",
+      "headerPlusRemoved": true,
+      "publicProfileFirst": null,
+      "horizontalOverflow": false
+    },
+    {
+      "width": 390,
+      "signedIn": false,
+      "navigation": "passed",
+      "headerPlusRemoved": true,
+      "publicProfileFirst": null,
+      "horizontalOverflow": false
+    },
+    {
+      "width": 320,
+      "signedIn": false,
+      "navigation": "passed",
+      "headerPlusRemoved": true,
+      "publicProfileFirst": null,
+      "horizontalOverflow": false
+    }
+  ]
+}

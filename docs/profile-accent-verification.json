@@ -1,0 +1,208 @@
+{
+  "at": "2026-10-23T14:43:40.088Z",
+  "mocked": false,
+  "mutations": false,
+  "checks": [
+    {
+      "width": 1440,
+      "accent": "#1f6506",
+      "ink": [
+        22,
+        94,
+        0
+      ],
+      "inkMatches": true,
+      "surface": [
+        217,
+        222,
+        212
+      ],
+      "tabSurface": [
+        205,
+        215,
+        199
+      ],
+      "tagSurface": [
+        205,
+        215,
+        199
+      ],
+      "ground": [
+        233,
+        233,
+        230
+      ],
+      "archiveSelection": "passed",
+      "tabs": "passed",
+      "horizontalOverflow": false
+    },
+    {
+      "width": 768,
+      "accent": "#1f6506",
+      "ink": [
+        22,
+        94,
+        0
+      ],
+      "inkMatches": true,
+      "surface": [
+        217,
+        222,
+        212
+      ],
+      "tabSurface": [
+        205,
+        215,
+        199
+      ],
+      "tagSurface": [
+        205,
+        215,
+        199
+      ],
+      "ground": [
+        233,
+        233,
+        230
+      ],
+      "archiveSelection": "passed",
+      "tabs": "passed",
+      "horizontalOverflow": false
+    },
+    {
+      "width": 390,
+      "accent": "#1f6506",
+      "ink": [
+        22,
+        94,
+        0
+      ],
+      "inkMatches": true,
+      "surface": [
+        217,
+        222,
+        212
+      ],
+      "tabSurface": [
+        205,
+        215,
+        199
+      ],
+      "tagSurface": [
+        205,
+        215,
+        199
+      ],
+      "ground": [
+        233,
+        233,
+        230
+      ],
+      "archiveSelection": "passed",
+      "tabs": "passed",
+      "horizontalOverflow": false
+    }
+  ],
+  "contrast": [
+    {
+      "accent": "#766342",
+      "pairs": {
+        "--background": 6.99,
+        "--profile-accent-soft": 6.33,
+        "--profile-accent-surface": 5.86,
+        "--profile-accent-hover": 5.42,
+        "primary": 8.51
+      }
+    },
+    {
+      "accent": "#518c34",
+      "pairs": {
+        "--background": 6.64,
+        "--profile-accent-soft": 6.14,
+        "--profile-accent-surface": 5.74,
+        "--profile-accent-hover": 5.36,
+        "primary": 8.08
+      }
+    },
+    {
+      "accent": "#ffffff",
+      "pairs": {
+        "--background": 6.95,
+        "--profile-accent-soft": 7.08,
+        "--profile-accent-surface": 7.14,
+        "--profile-accent-hover": 7.21,
+        "primary": 8.45
+      }
+    },
+    {
+      "accent": "#ffff00",
+      "pairs": {
+        "--background": 6.73,
+        "--profile-accent-soft": 6.78,
+        "--profile-accent-surface": 6.78,
+        "--profile-accent-hover": 6.79,
+        "primary": 8.19
+      }
+    },
+    {
+      "accent": "#000000",
+      "pairs": {
+        "--background": 17.26,
+        "--profile-accent-soft": 14.43,
+        "--profile-accent-surface": 12.53,
+        "--profile-accent-hover": 10.8,
+        "primary": 21
+      }
+    },
+    {
+      "accent": "#ff0000",
+      "pairs": {
+        "--background": 7.56,
+        "--profile-accent-soft": 6.61,
+        "--profile-accent-surface": 5.97,
+        "--profile-accent-hover": 5.39,
+        "primary": 9.19
+      }
+    },
+    {
+      "accent": "#00ff00",
+      "pairs": {
+        "--background": 6.46,
+        "--profile-accent-soft": 6.24,
+        "--profile-accent-surface": 6.09,
+        "--profile-accent-hover": 5.95,
+        "primary": 7.86
+      }
+    },
+    {
+      "accent": "#0000ff",
+      "pairs": {
+        "--background": 7.17,
+        "--profile-accent-soft": 6.08,
+        "--profile-accent-surface": 5.35,
+        "--profile-accent-hover": 4.7,
+        "primary": 8.72
+      }
+    },
+    {
+      "accent": "#00ffff",
+      "pairs": {
+        "--background": 5.79,
+        "--profile-accent-soft": 5.67,
+        "--profile-accent-surface": 5.58,
+        "--profile-accent-hover": 5.5,
+        "primary": 7.05
+      }
+    },
+    {
+      "accent": "#ff00ff",
+      "pairs": {
+        "--background": 7.64,
+        "--profile-accent-soft": 6.77,
+        "--profile-accent-surface": 6.19,
+        "--profile-accent-hover": 5.67,
+        "primary": 9.29
+      }
+    }
+  ]
+}

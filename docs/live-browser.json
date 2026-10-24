@@ -1,0 +1,17 @@
+{
+  "at": "2026-10-23T12:30:32.657Z",
+  "passed": true,
+  "scenarios": [
+    "UI login",
+    "serial draft creation",
+    "image upload",
+    "publish",
+    "author homepage",
+    "like and favorite collection",
+    "comment and reply",
+    "notification target location",
+    "mock recharge",
+    "create and pay order",
+    "seller orders and wallet"
+  ]
+}

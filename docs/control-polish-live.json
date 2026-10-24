@@ -1,0 +1,119 @@
+{
+  "at": "2026-10-23T14:25:04.565Z",
+  "mocked": false,
+  "mutations": false,
+  "widths": [
+    1440,
+    768,
+    390
+  ],
+  "customDropdowns": "passed",
+  "filterModal": "passed",
+  "introRemoval": "passed",
+  "responses": [
+    {
+      "path": "/api/v1/notes",
+      "status": 200
+    },
+    {
+      "path": "/api/v1/notes",
+      "status": 200
+    },
+    {
+      "path": "/api/v1/tags",
+      "status": 200
+    },
+    {
+      "path": "/api/v1/tags",
+      "status": 200
+    },
+    {
+      "path": "/api/v1/notes",
+      "status": 200
+    },
+    {
+      "path": "/api/v1/tags",
+      "status": 200
+    },
+    {
+      "path": "/api/v1/tags/stats",
+      "status": 200
+    },
+    {
+      "path": "/api/v1/tags",
+      "status": 200
+    },
+    {
+      "path": "/api/v1/products",
+      "status": 200
+    },
+    {
+      "path": "/api/v1/notes",
+      "status": 200
+    },
+    {
+      "path": "/api/v1/notes",
+      "status": 200
+    },
+    {
+      "path": "/api/v1/tags",
+      "status": 200
+    },
+    {
+      "path": "/api/v1/tags",
+      "status": 200
+    },
+    {
+      "path": "/api/v1/tags",
+      "status": 200
+    },
+    {
+      "path": "/api/v1/tags/stats",
+      "status": 200
+    },
+    {
+      "path": "/api/v1/tags",
+      "status": 200
+    },
+    {
+      "path": "/api/v1/products",
+      "status": 200
+    },
+    {
+      "path": "/api/v1/notes",
+      "status": 200
+    },
+    {
+      "path": "/api/v1/notes",
+      "status": 200
+    },
+    {
+      "path": "/api/v1/tags",
+      "status": 200
+    },
+    {
+      "path": "/api/v1/tags",
+      "status": 200
+    },
+    {
+      "path": "/api/v1/notes",
+      "status": 200
+    },
+    {
+      "path": "/api/v1/tags",
+      "status": 200
+    },
+    {
+      "path": "/api/v1/tags/stats",
+      "status": 200
+    },
+    {
+      "path": "/api/v1/tags",
+      "status": 200
+    },
+    {
+      "path": "/api/v1/products",
+      "status": 200
+    }
+  ]
+}
