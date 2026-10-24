@@ -1,4 +1,4 @@
-# 学生在线 · 示例前端
+# SDUOnlineBlog-示例前端
 
 React + Vite + TypeScript 严格模式 + Tailwind CSS 4。
 
