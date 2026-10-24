@@ -44,7 +44,13 @@ export function Brand() {
   return (
     <Link to="/" className="brand" aria-label="学生在线博客首页">
       <span className="brand-symbol">
-        <BookOpen size={25} strokeWidth={1.4} />
+        <img
+          src="/brand/qian-ai-mark.png"
+          width={36}
+          height={36}
+          alt=""
+          aria-hidden="true"
+        />
       </span>
       <span>
         学生在线<span className="brand-en">SDU ONLINE / BLOG</span>

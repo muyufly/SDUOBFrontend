@@ -8,7 +8,7 @@ import { useState } from "react";
 import { useForm } from "react-hook-form";
 import { zodResolver } from "@hookform/resolvers/zod";
 import { z } from "zod";
-import { ArrowRight, BookOpen, Eye, EyeOff } from "lucide-react";
+import { ArrowRight, Eye, EyeOff } from "lucide-react";
 import { api, errorMessage } from "@/api/client";
 import type { AuthSession } from "@/api/types";
 import { useAuth } from "@/app/auth";
@@ -65,7 +65,13 @@ export function AuthPage() {
   return (
     <div className="auth-layout">
       <section className="auth-story">
-        <BookOpen size={40} strokeWidth={1} />
+        <img
+          src="/brand/qian-ai-mark.png"
+          width={48}
+          height={48}
+          alt=""
+          aria-hidden="true"
+        />
         <h1>
           每一个想法，
           <br />

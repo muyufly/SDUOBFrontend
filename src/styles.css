@@ -351,6 +351,12 @@ small {
   place-items: center;
   color: var(--gold);
 }
+.brand-symbol img {
+  display: block;
+  width: 36px;
+  height: 36px;
+  object-fit: contain;
+}
 .brand-en {
   display: block;
   font-family: var(--font-sans);
@@ -1969,8 +1975,11 @@ small {
 .auth-story {
   padding-top: 50px;
 }
-.auth-story > svg {
-  color: #64675f;
+.auth-story > img {
+  display: block;
+  width: 48px;
+  height: 48px;
+  object-fit: contain;
   margin-bottom: 35px;
 }
 .auth-story h1 {
@@ -3662,8 +3671,9 @@ small {
   .brand-symbol {
     width: 28px;
   }
-  .brand-symbol svg {
-    width: 23px;
+  .brand-symbol img {
+    width: 28px;
+    height: 28px;
   }
   .brand-en {
     font-size: 13px;
@@ -4099,7 +4109,7 @@ small {
   .auth-story {
     padding: 0;
   }
-  .auth-story > svg {
+  .auth-story > img {
     display: none;
   }
   .auth-story h1 {
